@@ -4,7 +4,7 @@
   <groupId>in.codetech</groupId>
   <artifactId>01-Maven-App</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>01-Maven-App Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
