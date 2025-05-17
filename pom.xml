@@ -15,6 +15,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <repository>
+      <id>nexus</id>
+      <url>http://13.233.130.5:8081/#admin/repository/repositories:gaurav-releases/</url>
+    </repository>
+  </distributionManagement>
   <build>
     <finalName>01-Maven-App</finalName>
   </build>
